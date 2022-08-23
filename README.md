@@ -1,5 +1,7 @@
-# test_repository
-test description
+# Repositorio de prueba.
 
-# this is a new thing. 
-thing thing. 
+Estoy usando este repositorio como una prueba :3 :3 :p 
+
+# La idea es aprender a usar gihtub.
+
+Eso :D 
